@@ -1,6 +1,6 @@
 <h1><i>Interview Book (Solo Project)</i><h1/>
   <hr/>
-  <h3><i>This project includes the topics which are important for web development interview.This project includes important topics of HTM,CSS,JS and React with it also consists some extra topics which frequently asked in the interviews.</i></h3>
+  <h3><i>This project includes the topics which are important for web development interview.This project includes important topics of HTM,CSS,JS and React with it also consists some extra topics which frequently asked in the interviews with light and dark theme.</i></h3>
   
   <hr/>
   <h2>Home</h2>
@@ -27,8 +27,8 @@
   <h4>Each content part comprises:</h4>
   <ul>
     <li>Explanatory image and gif.</li>
-    <li></li>
-    <li></li>
+    <li>Definition.</li>
+    <li>Example (if required).</li>
   </ul>
   <img src = "https://user-images.githubusercontent.com/93570605/171992787-7c773791-7703-4977-8b78-30f8dadae6c5.png"/>
   
