@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+.Dark{
+  background-color: rgb(8, 8, 37);
+  min-height: 100vh;
+  color: rgb(145, 174, 175);
+}
+
+.light{
+  background-color: white;
+  min-height: 100vh;
+}
+
+.lightbox{
+  margin-bottom: 1rem;
+  /* background-color: rgb(59, 187, 176); */
+}
+.dark{
+  background-color: gray;
+  
+}
+.darkbox{
+  margin-bottom: 1rem;
+  background-color: rgb(41, 99, 153);
+  color: white;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+.mainnav{
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.content{
+  margin: auto;
+  width: 80%;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  overflow-y: scroll;
+  max-height: 90vh;
+
+}
+
+.content::-webkit-scrollbar{
+  display: none;
+}
+
+
+
+
+
+
